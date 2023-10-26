@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683475164 source:v:\btech\c++\miniprojectsem2\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<process.h>
+	<windows.h>
+
+1683653166 source:v:\btech\c++\miniprojectsem2\edit1.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<process.h>
+	<windows.h>
+
