@@ -20,5 +20,5 @@ object-oriented development:
 4)Polymorphism: Different forms in which an object can behave differently in different situations.
 - Operator overloading
 - Function overloading
-5)Class: It is a user defined data type which holds its own data members and member functions , which can be accessed and used by creating an instance of that class.
-6)Inheritance: The capability of a class to derive properties from another class is called inheritance.
+- 5)Class: It is a user defined data type which holds its own data members and member functions , which can be accessed and used by creating an instance of that class.
+- 6)Inheritance: The capability of a class to derive properties from another class is called inheritance.
